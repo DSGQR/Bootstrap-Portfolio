@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f9fa
+}
+
+.content {
+    width: 100%;
+    max-width: 960px;
+    padding: 30px 30px 300px 30px;
+    color: white;
+    margin: 0 auto;
+    clear: both;
+    background: url(../images/connectwork.png);
+  }
+
+  .auth-image {
+      float: left;
+      width: 200px;
+      margin: 10px 25px 0 0;
+  }
+
+  h1 {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-size: 38px;
+    line-height: 49px;
+    border-bottom: 3px solid white;
+  }
+
+  p:last-child {
+      padding-top: 2px;
+      font-size: 20px;
+      line-height: 34px;
+  }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #fff;
+    color: black;
+    background: f8f9fa;
+    height: 50px;
+}
